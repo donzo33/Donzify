@@ -4,7 +4,7 @@ This is a very simple snippet for displaying spotify info (+green screen integra
 
 npm install/npm start in file:Donzify
 
-Don't forget to download first the AuthDonzify and set up your api key 
+Don't forget to  set up your api key on AuthDonzify
 
 
 V0.1 
