@@ -7,3 +7,6 @@ after that just simply npm install/npm start in Donzify file
 
 
 V0.1
+
+
+thanks to https://github.com/JMPerez/spotify-web-api-js
